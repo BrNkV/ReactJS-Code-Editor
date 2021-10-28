@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
+import { EditorProvider } from './context/context';
 
 function App() {
   return (
-    <div className="App">
+    <EditorProvider>
 
-    </div>
+    </EditorProvider>
   );
 }
 
