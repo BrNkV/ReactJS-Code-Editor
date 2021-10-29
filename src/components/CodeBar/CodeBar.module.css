@@ -1,0 +1,42 @@
+.codebar {
+    width: 600px;
+    /*TODO добавить возможность смены цвета */
+    background: rgb(100, 100, 100);
+    position: relative;
+}
+
+.tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    padding: 0 15px;
+    gap: 15px;
+    border-bottom: 2px solid rgb(136, 136, 136);
+}
+
+.item {
+    display: flex;
+    height: 50px;
+    flex: 1 1 auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    background: rgb(133, 133, 133);
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+    outline: none;
+    border: none;
+}
+
+.activeTab {
+    background: rgb(3, 139, 121);
+    color: white;
+}
+
+.editor {
+    height: calc(100% - 70px);
+    padding: 10px;
+}
