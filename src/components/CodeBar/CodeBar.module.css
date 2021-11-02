@@ -37,6 +37,6 @@
 }
 
 .editor {
-    height: calc(100% - 70px);
+    height: calc(100vh - 70px);
     padding: 10px;
 }
