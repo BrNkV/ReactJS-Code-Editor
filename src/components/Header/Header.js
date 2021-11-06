@@ -9,6 +9,7 @@ const Header = () => {
     return (
         <header className={styles.header}>
             <button
+            onClick={() => setCamera(!camera)}
                 className={styles.button}
             >
                 {camera ?
