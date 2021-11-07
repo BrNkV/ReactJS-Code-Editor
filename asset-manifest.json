@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Code-Editor/static/css/main.fa493d91.chunk.css",
+    "main.js": "/ReactJS-Code-Editor/static/js/main.182cc2a0.chunk.js",
+    "main.js.map": "/ReactJS-Code-Editor/static/js/main.182cc2a0.chunk.js.map",
+    "runtime-main.js": "/ReactJS-Code-Editor/static/js/runtime-main.aab13615.js",
+    "runtime-main.js.map": "/ReactJS-Code-Editor/static/js/runtime-main.aab13615.js.map",
+    "static/js/2.ffd03aca.chunk.js": "/ReactJS-Code-Editor/static/js/2.ffd03aca.chunk.js",
+    "static/js/2.ffd03aca.chunk.js.map": "/ReactJS-Code-Editor/static/js/2.ffd03aca.chunk.js.map",
+    "index.html": "/ReactJS-Code-Editor/index.html",
+    "precache-manifest.e2ed5ecd2f392d7ae7ae8a8750478436.js": "/ReactJS-Code-Editor/precache-manifest.e2ed5ecd2f392d7ae7ae8a8750478436.js",
+    "service-worker.js": "/ReactJS-Code-Editor/service-worker.js",
+    "static/css/main.fa493d91.chunk.css.map": "/ReactJS-Code-Editor/static/css/main.fa493d91.chunk.css.map",
+    "static/js/2.ffd03aca.chunk.js.LICENSE.txt": "/ReactJS-Code-Editor/static/js/2.ffd03aca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aab13615.js",
+    "static/js/2.ffd03aca.chunk.js",
+    "static/css/main.fa493d91.chunk.css",
+    "static/js/main.182cc2a0.chunk.js"
+  ]
+}
