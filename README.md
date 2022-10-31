@@ -4,7 +4,7 @@ a simple code editor in react, written according to the lessons on YouTube
 
 ### `gh-pages link`
 
-### quick view link ===> [ReactJS-Code-Editor](https://everybarry.github.io/ReactJS-Code-Editor/)
+### quick view link ===> [ReactJS-Code-Editor](https://brnkv.github.io/ReactJS-Code-Editor/)
 
 #### used packages:
 
